@@ -1,4 +1,4 @@
-package br.com.aprendizesfilmes.pojo;
+package br.com.aprendizesfilmes.domain;
 
 public class Filmes {
 
